@@ -1,7 +1,7 @@
-# My Awesome Game
+# PICO-8's Celeste code
 
-This is My Awesome 16 Bit Cartridge game for mega Drive.
+![Celeste](https://i.ytimg.com/vi/mvVNVMhag5s/maxresdefault.jpg)
 
-This is a [Celeste](https://github.com/lemon32767/ccleste) Port for Mega Drive.
+Full code extracted from cartridge can be found on [celeste.lua](celeste.lua). No assets, just code.
 
-Work in Progress.
+Dismantled code to make it easier to translate from Lua to C cand be found on [src folder](src).
